@@ -20,5 +20,8 @@
             </div>
             @endforeach
         </div>
+        <div class="pagenate">
+            {{ $posts->links() }}
+        </div>
     </body>
 </html>
