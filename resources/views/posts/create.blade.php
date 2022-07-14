@@ -27,7 +27,7 @@
                 <textarea name="post[body]" placeholder="ここに本文"></textarea>
             </div>
             
-            <input type="submit" value="Store"/>
+            <input type="submit" value="store"/>
             
         </form>
         
